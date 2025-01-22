@@ -1,3 +1,3 @@
 # Attendance-System
 
-- iOS based
+- iOS-based
